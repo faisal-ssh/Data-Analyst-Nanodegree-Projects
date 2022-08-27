@@ -7,3 +7,8 @@ database, creating a line chart to compare your city’s temperatures with the g
 the world averages and your city’s averages, as well as overall trends.
 
 [Go to Report](Project-1_Explore-Weather-Trends/Project-1_Report.png)
+
+## Project 2 - Investigate a Dataset
+Analyze a dataset and then communicate findings about it using Python libraries NumPy, pandas, and Matplotlib to make analysis easier.
+
+[Go to Jupyter Notebook](Project-2_Investigate-a-Dataset/Project-2_Investigate_a_Dataset.ipynb)
