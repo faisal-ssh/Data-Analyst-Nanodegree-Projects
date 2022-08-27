@@ -12,3 +12,10 @@ the world averages and your city’s averages, as well as overall trends.
 Analyze a dataset and then communicate findings about it using Python libraries NumPy, pandas, and Matplotlib to make analysis easier.
 
 [Go to Jupyter Notebook](Project-2_Investigate-a-Dataset/Project-2_Investigate_a_Dataset.ipynb)
+
+## Project 3 - Analyze A/B Test Results
+The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's 
+product. The goal is to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their 
+decision.
+
+[Go to Jupyter Notebook](Project-3_Analyze-AB-Test-Results/Project-3_Project-3_Analyze_ab_test_results_notebook.ipynb)
