@@ -41,4 +41,6 @@ variables and building up to plots of multiple variables.
 your selected dataset. The primary method of conveying your findings will be through transforming your exploratory visualizations from the first part into polished, 
 explanatory visualizations.
 
-[Go to Jupyter Notebook](Project-5_Communicate-Data-Findings/Project-5_Analyze_ab_test_results_notebook.ipynb)
+[Go to Jupyter Notebook (Part I)](Project-5_Communicate-Data-Findings/Project-5_Part_I_Exploration.ipynb)<br>
+[Go to Jupyter Notebook (Part II - Slide Deck)](Project-5_Communicate-Data-Findings/Project-5_Part_II_Slide_Deck.ipynb)<br>
+[Go to Report](Project-5_Communicate-Data-Findings/Project-5_Report.md)
