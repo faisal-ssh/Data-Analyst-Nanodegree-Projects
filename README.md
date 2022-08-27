@@ -18,4 +18,4 @@ The company has developed a new web page in order to try and increase the number
 product. The goal is to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their 
 decision.
 
-[Go to Jupyter Notebook](Project-3_Analyze-AB-Test-Results/Project-3_Project-3_Analyze_ab_test_results_notebook.ipynb)
+[Go to Jupyter Notebook](Project-3_Analyze-AB-Test-Results/Project-3_Analyze_ab_test_results_notebook.ipynb)
