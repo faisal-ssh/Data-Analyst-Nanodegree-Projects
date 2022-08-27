@@ -30,8 +30,8 @@ analyses and visualizations.<br><br>
 3. **Cleaning Data:** clean all of the issues documented while assessing using the define-code-test framework.
 4. **Storing Data:** store the cleaned master DataFrame in a CSV file.
 
-[Go to Jupyter Notebook (Wrangle)](Project-4_Wrangle-and-Analyze-Data/Project-4_Insights.ipynb)<br>
-[Go to Jupyter Notebook (Insights)](Project-4_Wrangle-and-Analyze-Data/Project-4_Wrangle.ipynb)
+[Go to Jupyter Notebook (Wrangle)](Project-4_Wrangle-and-Analyze-Data/Project-4_Wrangle.ipynb)<br>
+[Go to Jupyter Notebook (Insights)](Project-4_Wrangle-and-Analyze-Data/Project-4_Insights.ipynb)
 
 ## Project 5 - Communicate Data Findings
 This project has two parts that demonstrate the importance and value of data visualization techniques in the data analysis process:
